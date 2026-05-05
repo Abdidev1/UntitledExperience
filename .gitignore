@@ -1,0 +1,20 @@
+# Roblox Studio auto-generated files
+*.rbxlx.lock
+*.lock
+
+# Roblox Studio local plugin data
+/LocalPlugins/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor configs
+.vscode/
+.idea/
+
+# Node (if using Rojo or other tooling)
+node_modules/
