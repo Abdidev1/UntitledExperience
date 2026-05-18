@@ -7,3 +7,4 @@ open `UntitledExperience.rbxl` in studio and you're good to go. before publishin
 scripts live in `src/`. server stuff handles the stage logic, datastore saves, and kill bricks. client side is just the group join button and the win screen. everything's tagged with CollectionService so adding more lava/checkpoints is just tagging parts, no code changes needed.
 
 pull requests are fine, just test it in studio first.
+DEMO VIDEO LINK : https://youtu.be/gz5vW-QIe2k?si=JS4CMIVcmIEKO1FA
